@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Dipanja Mitra
-### * I’m interested in Coding and anime.
+### - I’m interested in Coding and anime.
 ## 🌱 I’m currently learning
 Flutter, Dart, Python, C++, C#, Java, HTML, CSS, JavaScript, PHP, SQL, and more.
 #### 📫 How to reach me on
