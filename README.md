@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **Advanced Python**, **CUDA Programming**, **React**, and **Blockchain Development**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/itsdstar)
 - 💬 Ask me about **Python**, **Cryptography**, **Bitcoin**, **Web Development**
-- 📫 How to reach me: **dipanjan.mitra.dev@gmail.com**
+- 📫 How to reach me: **dm.dipanjanmitra@gmail.com**
 - ⚡ Fun fact: I think I am not the best when it comes to coding, but I am still learning and improving every day!
 - 🎌 Interests: **Coding**, **Anime**, **Cryptocurrency**, **Machine Learning**
 
